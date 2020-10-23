@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@100;200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+*{
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: url(broadway.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{ 
+    color: snow;
+    font-size: 63px;
+    font-style: bold;
+    text-align: center
+}
+
+.box{
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 15px 150px 15px 150px;
+    color: snow;
+    font-style: bold;
+    font-size: 42;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-style: bold;
+    color: snow;
+
+
+}
+
+img {max-width: 40%;}
+
+.centre {
+    text-align:center;
+}
+
+.container { 
+    display: flex;
+    min-width: height 100vh;
+    text-align: center;
+    flex-direction: row;
+    padding: 15px;
+    justify-content: space-evenly;
+
+}
+
+.conhome{ background-color: snow;
+
+}
+
+.conaboutme{ background-color: snow;
+
+}
+.concontactme{ background-color: snow;
+
+}
+.congallery{ background-color: snow;
+
+}
+
+.left {
+    text-align:left;
+    max-width: 60%;
+}
+
+.aboutmetext {
+    text-align: justify;
+    color: snow;
+    font-size: large;
+    text-emphasis: outline;
+    box-sizing: border-box;
+    padding: 90px;
+    position:fixed; left:300px; top:180px; 
+
+}
+
+.contactmetext {
+    text-align: justify;
+    color: snow;
+    font-size: large;
+    text-emphasis: outline;
+    box-sizing: border-box;
+    padding: 60px;
+    position:fixed; left:100px; top:180px; 
+}
+
+.gallerytext1 {
+    text-align: justify;
+    color: snow;
+    font-size: large;
+    text-emphasis: outline;
+    
+}
+
+.galleryp {
+    text-align: center;
+    width: 140%;
+    position:fixed; left:-60px; top:220px;
+}
+
+.gallerytext2 {
+    text-align: justify;
+    color: snow;
+    font-size: large;
+    box-sizing: border-box;
+    padding: 200px;
+    text-emphasis: outline;
+    position:fixed; top: 100px; right: 750px; left: 3px;
+
+}
