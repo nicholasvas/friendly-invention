@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(broadway.jpg);
+    background: src (broadway.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
