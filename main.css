@@ -9,7 +9,7 @@
 }
 
 body{
-    background:url(broadway.JPG);
+    background: url(broadway.JPG);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -114,8 +114,8 @@ img {max-width: 40%;}
     color: snow;
     font-size: large;
     box-sizing: border-box;
-    padding: 200px;
+    padding: 200px 200px 200px 30px;
     text-emphasis: outline;
-    position:fixed; top: 100px; right: 750px; left: 3px;
+    position:fixed; top: 100px; right: 750px;
 
 }
